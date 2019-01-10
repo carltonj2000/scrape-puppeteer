@@ -1,0 +1,13 @@
+{
+  "name": "scrape-puppeteer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "ghrepos": "node node002_getGithubRepos.js",
+    "start": "node node001.js"
+  },
+  "dependencies": {
+    "puppeteer": "^1.11.0"
+  }
+}
