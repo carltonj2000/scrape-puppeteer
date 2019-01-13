@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "ghrepos": "node node002_getGithubRepos.js",
-    "start": "node node001.js"
+    "power": "node node001_power.js"
   },
   "dependencies": {
     "puppeteer": "^1.11.0"
